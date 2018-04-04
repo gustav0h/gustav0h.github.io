@@ -1,4 +1,8 @@
-.nothing{
+.nothing {
   color: #ff00ff;
   font-weight: bold;
+}
+
+* {
+  font-family: OpenDyslexic3, OpenDyslexic;
 }
